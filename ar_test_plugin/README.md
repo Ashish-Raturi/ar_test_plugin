@@ -1,6 +1,6 @@
 # ar_test_plugin
 
-A new Flutter package project.
+It's just a test project
 
 ## Getting Started
 
